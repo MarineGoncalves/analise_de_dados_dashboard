@@ -1,0 +1,1 @@
+Projeto desenvolvido com linguagem Python e suas bibliotecas, para criação de dashboard interativo com todas os graficos gerados e todas as informações coletadas nesse estudo sobre os cargos na área de Analise de dados no momento. 
